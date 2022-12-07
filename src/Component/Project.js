@@ -25,7 +25,7 @@ const Project = () => {
                 <li>Water and care requirement status of the trees.</li>
                 <li> Potential tree-planting sites. </li>
                 <li>
-                  Other community members, you can work with for a greener
+                  Other community members, yyou can work with for a greener
                   tomorrow.
                 </li>
                 <li>
