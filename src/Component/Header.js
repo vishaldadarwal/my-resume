@@ -9,7 +9,7 @@ const Header = () => {
           <NavLink
             className="navbar-brand text-decoration-none text-secondary fs-3 fw-bold"
             exact
-            to="/"
+            to="/myresume"
           >
             <span className="fs-1 fw-bolder text-danger ">V</span>ishal Verma
           </NavLink>
