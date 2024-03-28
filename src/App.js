@@ -21,7 +21,7 @@ function App() {
         <Route path="/resume" element={<Resume />} />
         <Route path="/project" element={<Project />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="*" element={<Error />} />
+        <Route path="*" element={<Home />} />
       </Routes>
       <Footer />
     </BrowserRouter>
