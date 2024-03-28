@@ -19,7 +19,7 @@ const Footer = () => {
             <p>instagram</p>
           </div>
           <div className="col-12 col-md-3">
-            <p>@copyright 2022 by Vishal Verma</p>
+            <p>@copyright 2024 by Vishal Verma</p>
           </div>
         </div>
       </div>

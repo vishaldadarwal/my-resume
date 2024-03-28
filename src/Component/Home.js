@@ -1,5 +1,6 @@
 import React from "react";
 import developer from "../assest/developer.jpeg";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -13,7 +14,7 @@ const Home = () => {
             <div className="col-12 col-md-6">
               <div
                 className="text-center float-md-end"
-                // style={{ width: "450px", height: "450px" }}
+              // style={{ width: "450px", height: "450px" }}
               >
                 <img
                   src={developer}
@@ -33,24 +34,9 @@ const Home = () => {
                 JavaScript, Reactjs , React Native, Redux, HTML5, CSS3, SCSS,
                 bootstrap.
               </p>
-              <button
-                type="button"
-                class="btn btn-danger shadow m-1 btn-lg text-light rounded-circle"
-              >
-                Resume
-              </button>
-              <button
-                type="button"
-                class="btn btn-warning shadow m-1 btn-lg text-light rounded-circle"
-              >
-                Project
-              </button>
-              <button
-                type="button"
-                class="btn btn-info shadow m-1 btn-lg text-light rounded-circle"
-              >
-                Contact
-              </button>
+              <Link to="/resume" class="btn btn-danger shadow m-1 btn-lg text-light">Resume</Link>
+              <Link to="/project" class="btn btn-warning shadow m-1 btn-lg text-light">Project</Link>
+              <Link to="/contact" class="btn btn-info shadow m-1 btn-lg text-light">Contact</Link>
             </div>
           </div>
         </div>

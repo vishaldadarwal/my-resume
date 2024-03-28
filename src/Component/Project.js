@@ -9,6 +9,31 @@ const Project = () => {
               <h3>Project</h3>
             </div>
             <div className="col-12 col-md-6">
+            Faces Consent (React Native)
+            </div>
+            <div className="col-12 col-md-6">
+              <p>
+              Faces consent is a consent form and booking system for the beauty and aesthetics industry.Practitioners can find the following.
+              </p>
+              <ul>
+                <li>Empowered practitioners to create personalized consent forms for client consultations.</li>
+                <li>Developed and tailored consent forms for diverse aesthetic procedures, such as Botox, dermal filler, PDO, Profhilo, and Dermapen, with integrated facial mapping for accurate treatment area documentation.</li>
+                <li>
+                  Playstore -
+                  <a href="https://play.google.com/store/apps/details?id=com.kanvas.facesconsent&hl=en_IN&gl=US">
+                    link
+                  </a>
+                </li>
+                <li>
+                  Appstore -
+                  <a href="https://apps.apple.com/uy/app/faces-consent/id1467896114">
+                    link
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <hr />
+            <div className="col-12 col-md-6">
               TIA- care for future (React Native)
             </div>
             <div className="col-12 col-md-6">

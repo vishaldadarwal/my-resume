@@ -89,7 +89,7 @@ const Contact = () => {
                 <div class="col-12 col-lg-6 d-flex align-items-center  justify-content-center ">
                   <button
                     type="submit"
-                    class="btn btn-warning shadow btn-lg text-light rounded-circle"
+                    class="btn btn-warning shadow btn-lg text-light"
                   >
                     Send
                   </button>

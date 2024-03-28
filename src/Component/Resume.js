@@ -14,9 +14,42 @@ const Resume = () => {
             </div>
             <div className="col-12 col-md-9">
               <div className="row">
-                <div className="col-12 col-md-3">Apirl 2022 - Nov 2022</div>
+                <h6 className="col-12 col-md-3">{`Techerudite`}
+                  <h6 className="" >
+                    (Ahmedabad,India)
+                  </h6>
+                </h6>
                 <div className="col-12 col-md-9">
-                  <h6>React Native Developer</h6>
+                  <div className="row" >
+                    <h6 className="col-12 col-lg-6">React Native Developer</h6>
+                    <p className="col-12 col-lg-6 text-lg-end">Jan 2023 - March 2024</p>
+                  </div>
+                  <ul>
+                    <li>
+                      Proficiently integrated RESTful APIs and GraphQL APIs into React Native applications, tailoring solutions to the specific
+                      requirements of each technology.
+                    </li>
+                    <li>
+                      Spearheaded the iterative refinement process for React Native components, screens, and features, playing a pivotal role in
+                      elevating mobile app functionality.
+                    </li>
+                    <li>
+                      Achieved an enhanced user experience through iterative enhancements and user-centric updates.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="row">
+                <h6 className="col-12 col-md-3">Gts Infosoft LLP
+                  <h6 className="" >
+                    (Jodhpur, India)
+                  </h6>
+                </h6>                
+                <div className="col-12 col-md-9">
+                  <div className="row" >
+                    <h6 className="col-12 col-lg-6">React Native Developer</h6>
+                    <p className="col-12 col-lg-6 text-lg-end">Apirl 2022 - Nov 2022</p>
+                  </div>
                   <ul>
                     <li>
                       Developed front-end user interface using React Native and
@@ -42,9 +75,16 @@ const Resume = () => {
                 </div>
               </div>
               <div className="row">
-                <div className="col-12 col-md-3">Apirl 2022 - Nov 2022</div>
+              <h6 className="col-12 col-md-3">W3CTRL
+                  <h6 className="" >
+                    (Delhi, India)
+                  </h6>
+                </h6>   
                 <div className="col-12 col-md-9">
-                  <h6>UI Developer</h6>
+                <div className="row" >
+                    <h6 className="col-12 col-lg-6">ReactJs UI Developer</h6>
+                    <p className="col-12 col-lg-6 text-lg-end">March 2021 – Feb 2022</p>
+                  </div>
                   <ul>
                     <li>
                       Improved and expanded project platforms using JavaScript
@@ -89,7 +129,7 @@ const Resume = () => {
                 <div className="col-12 col-md-9">
                   <h6>Beachler Degree</h6>
                   <p>
-                    BACHELOR OF COMPUTER APPLICATION BCA
+                    BCA {`(BACHELOR OF COMPUTER APPLICATION)`} 
                     <br />
                     MGSU Bikaner, June 2016 <br />
                     6.6/10
@@ -106,6 +146,7 @@ const Resume = () => {
                 <div className="col-6">
                   <ul>
                     <li>JavaScript</li>
+                    <li>TypeScript</li>
                     <li>React Js</li>
                     <li>React Native</li>
                     <li>Redux</li>
@@ -118,6 +159,7 @@ const Resume = () => {
                     <li>SASS</li>
                     <li>Bootstrap</li>
                     <li>JQuery</li>
+                    <li>GraphQL</li>
                   </ul>
                 </div>
               </div>
