@@ -76,7 +76,7 @@ const Contact = () => {
                 </div>
                 <div class="col-12 col-lg-6">
                   <label for="exampleFormControlTextarea1" class="form-label">
-                    Example textarea
+                    Message
                   </label>
                   <textarea
                     class="form-control"
