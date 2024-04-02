@@ -27,12 +27,9 @@ const Home = () => {
             </div>
             <div className="col-12 col-md-6">
               <h1 className="fs-1">Hello....</h1>
-              <h5>A Bit About Me</h5>
+              <h5>A Brief Introduction</h5>
               <p>
-                I'm a Software Engineer. last one year and eight months i am
-                working in a IT sector. In this period i am worked with
-                JavaScript, Reactjs , React Native, Redux, HTML5, CSS3, SCSS,
-                bootstrap.
+                I am an experienced Software Engineer with two years and ten months of dedicated experience in the IT industry. During this time, I have developed expertise in various technologies, including JavaScript, React.js, React Native, Redux, HTML5, CSS3, SCSS, Bootstrap, RestApi, GraphQL, Typescript and Git.
               </p>
               <Link to="/resume" class="btn btn-danger shadow m-1 btn-lg text-light">Resume</Link>
               <Link to="/project" class="btn btn-warning shadow m-1 btn-lg text-light">Project</Link>
